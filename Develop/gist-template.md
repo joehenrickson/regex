@@ -1,8 +1,5 @@
 Regex Tutorial - Email Search
 
-WALKTHROUGH VIDEO: https://youtu.be/MZAEg_I1pGs
-PART TWO: https://youtu.be/YE_pIUCuAms
-
 Introductory paragraph (replace this with your text)
 
 ## Summary
@@ -10,9 +7,6 @@ Introductory paragraph (replace this with your text)
 This Regular Expression or RegEx will be defining a search pattern to look for different expressions of an email address within a document. The RegEx code that will be discussed is as follows:
 
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
-
-Install npm i
-run node index.js for test run.
 
 ## Table of Contents
 
